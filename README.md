@@ -80,15 +80,15 @@ hands_on:
 <img src="https://github.com/Lalama1982/Lalama1982/blob/main/github.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
-                                                            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>                                                            
 </p>
+```
+<p><img src="https://github-readme-stats.vercel.app/api?username=Lalama1982&amp;show_icons=true&amp;theme=radical" alt="My GitHub stats"></p>
+```
 
 <!--
 **Lalama1982/Lalama1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -97,9 +97,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hey! I'm Lalama&height=100&section=header&&fontColor=FFFFFF"/>
-</p>
 -->
-
