@@ -65,7 +65,12 @@ hands_on:
 <h2> 🚀 &nbsp;My Technical know how 👇</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45"/>            
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 160 80">
+  <rect x="5" y="5" width="150" height="70" rx="25" ry="25" fill="white" stroke="#E50000" stroke-width="8"/>
+  <text x="80" y="47" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#E50000" text-anchor="middle" alignment-baseline="middle">PL/SQL</text>
+</svg>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="45" height="45"/>            
